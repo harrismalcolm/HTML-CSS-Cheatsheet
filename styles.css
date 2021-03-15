@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+h1, h2 {
+    text-align: center;
+}
+h2 {
+    color: rebeccapurple;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid darkorchid;
+    width: 650px;
+}
+
+thead {
+    background-color: plum
+}
+
+tbody th,td {
+    text-align: left;
+    border-top: 1px solid darkorchid;
+}
+
+.code {
+    background-color: beige;
+    font-family: monospace;
+    font-weight: normal;
+}
